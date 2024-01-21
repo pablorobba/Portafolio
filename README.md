@@ -31,6 +31,9 @@ Tools: Python, Pandas, Numpy, SQL, BigQuery, Cloud Functions, Sci-kit Learn, Yah
 <p align=center><img src="img-readme\dash5.jpg"><p>
 <p align=center><img src="img-readme\dash6.jpg"><p>
 
+
+
+
 # [Project 2: ENACOM Data Analysis Project ](https://github.com/pablorobba/Data_Analyst_Telecomunication_proyect)
 
 In this project, I analyzed data from the ENACOM (telecommunications) and performed ETL, analysis, and created a PowerBI dashboard.
@@ -40,12 +43,15 @@ In this project, I analyzed data from the ENACOM (telecommunications) and perfor
 ● Generated visualization reports based on user/client requirements.
 
 Tools: Python, Pandas, Numpy, PowerBI.
+
 ## 🖥️Dashboard Images:
 <p align=center><img src="img-readme\1.png"><p>
 <p align=center><img src="img-readme\2.png"><p>
 <p align=center><img src="img-readme\3.png"><p>
 <p align=center><img src="img-readme\4.png"><p>
 <p align=center><img src="img-readme\5.png"><p>
+
+
 
 
 # [Project 3: STEAM API Data Science Proyect](https://github.com/pablorobba/STEAM_Individual_Proyect)
