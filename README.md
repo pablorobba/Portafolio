@@ -18,11 +18,18 @@ Tools: Python, Pandas, Numpy, SQL, BigQuery, Cloud Functions, Sci-kit Learn, Yah
 
 
 ## 🛠️Workflow scheme  
-![](Images/Picture%201.png) 
-## 📑Entity–relationship model 
-![](Images/Picture%202.png)
-## 🖥️Dashboard Images:
+<p align=center><img src="img-readme\Flujo_de_Trabajo.png"><p>
 
+## 📑Entity–relationship model 
+<p align=center><img src="img-readme\Entidad_relación_Definitivo2.jpg"><p>
+    
+## 🖥️Dashboard Images:
+<p align=center><img src="img-readme\dash1.jpg"><p>
+<p align=center><img src="img-readme\dash2.jpg"><p>
+<p align=center><img src="img-readme\dash3.jpg"><p>
+<p align=center><img src="img-readme\dash4.jpg"><p>
+<p align=center><img src="img-readme\dash5.jpg"><p>
+<p align=center><img src="img-readme\dash6.jpg"><p>
 
 # [Project 2: ENACOM Data Analysis Project ](https://github.com/pablorobba/Data_Analyst_Telecomunication_proyect)
 
