@@ -1,6 +1,6 @@
 # [Project 1: Data Science's finance Proyect](https://github.com/ChirixC/Yelp-Final-Project)
 
-I worked on a project where I assumed the role of a data science company with a focus on finance, and we had to fulfill the company's objectives using Yelp and Google Maps data. The general conclution that our enterprise is in a safe positions, comparated to the competence in terms economic growth and comparing the reviews of our competence and ours (but they are cutting distance).
+I worked on a project where I assumed the role of a data science company with a focus on finance, and we had to fulfill the company's objectives using Yelp and Google Maps data. The general conclution that our enterprise is in a safe position, comparated to the competence, in terms economic growth and  the user's reviews  (but they are cutting distance).
 
 * Conducted an ETL and preliminary Exploratory Data Analysis (EDA) on a given dataset.
 * Developed data engineering and a data warehouse on Google Cloud with incremental data loading for analysis, directly extracted from Google Drive.
