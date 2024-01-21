@@ -38,9 +38,9 @@ Tools: Python, Pandas, Numpy, SQL, BigQuery, Cloud Functions, Sci-kit Learn, Yah
 
 In this project, I analyzed data from the ENACOM (telecommunications) and performed ETL, analysis, and created a PowerBI dashboard.
 
-● Conducted ETL and EDA on data extracted from the ENACOM API.
-● Conceptualized KPIs and developed storytelling based on data and EDA.
-● Generated visualization reports based on user/client requirements.
+* Conducted ETL and EDA on data extracted from the ENACOM API.
+* Conceptualized KPIs and developed storytelling based on data and EDA.
+* Generated visualization reports based on user/client requirements.
 
 Tools: Python, Pandas, Numpy, PowerBI.
 
