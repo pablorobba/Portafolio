@@ -47,6 +47,7 @@ Tools: Python, Pandas, Numpy, PowerBI.
 <p align=center><img src="img-readme\4.png"><p>
 <p align=center><img src="img-readme\5.png"><p>
 
+
 # [Project 3: STEAM API Data Science Proyect](https://github.com/pablorobba/STEAM_Individual_Proyect)
 
 I conducted Exploratory Data Analysis (EDA) and Extract, Transform, Load (ETL) on a Steam database, developed a machine learning model, and subsequently created an API with deployment. Additionally, I designed a HTML cover page and a CSS presentation for the API. You can get this info from this API: 1- Money spent by user, 2- The user with more hours played by genre, and his hours played by year, 3- The number of items and the percentage by year by developer, 4- The 3 best developers by year, 5- Developer name and it's reviews (positive/negative), 6- 5 Games according to the game(id) you give.
