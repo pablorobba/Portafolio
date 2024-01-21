@@ -1,6 +1,6 @@
 # [Project 1: Data Science's finance Proyect](https://github.com/ChirixC/Yelp-Final-Project)
 
-I worked on a project where I assumed the role of a data science company with a focus on finance, and we had to fulfill the company's objectives using Yelp and Google Maps data.
+I worked on a project where I assumed the role of a data science company with a focus on finance, and we had to fulfill the company's objectives using Yelp and Google Maps data. The general conclution that our enterprise is in a safe positions, comparated to the competence in terms economic growth and comparing the reviews of our competence and ours (but they are cutting distance).
 
 * Conducted an ETL and preliminary Exploratory Data Analysis (EDA) on a given dataset.
 * Developed data engineering and a data warehouse on Google Cloud with incremental data loading for analysis, directly extracted from Google Drive.
@@ -41,6 +41,11 @@ In this project, I analyzed data from the ENACOM (telecommunications) and perfor
 
 Tools: Python, Pandas, Numpy, PowerBI.
 ## 🖥️Dashboard Images:
+<p align=center><img src="img-readme\1.png"><p>
+<p align=center><img src="img-readme\2.png"><p>
+<p align=center><img src="img-readme\3.png"><p>
+<p align=center><img src="img-readme\4.png"><p>
+<p align=center><img src="img-readme\5.png"><p>
 
 # [Project 3: STEAM API Data Science Proyect](https://github.com/pablorobba/STEAM_Individual_Proyect)
 
