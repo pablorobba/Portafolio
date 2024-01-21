@@ -17,19 +17,19 @@ I have also done about this proyect, with marketing elements. [Click Here For Yo
 Tools: Python, Pandas, Numpy, SQL, BigQuery, Cloud Functions, Sci-kit Learn, Yahoo Finance API. Databases: PKL, JSON, Parquet, hosted on Google Drive; data extracted from Yahoo Finance through its API. Platforms: Google Cloud.
 
 
-## 🛠️Workflow scheme  
-<p align=center><img src="img-readme\Flujo_de_Trabajo.png"><p>
+## 🛠️Workflow scheme:  
+<img src="img-readme\Flujo_de_Trabajo.png">
 
-## 📑Entity–relationship model 
-<p align=center><img src="img-readme\Entidad_relación_Definitivo2.jpg"><p>
+## 📑Entity–relationship model: 
+<img src="img-readme\Entidad_relación_Definitivo2.jpg">
     
 ## 🖥️Dashboard Images:
-<p align=center><img src="img-readme\dash1.jpg"><p>
-<p align=center><img src="img-readme\dash2.jpg"><p>
-<p align=center><img src="img-readme\dash3.jpg"><p>
-<p align=center><img src="img-readme\dash4.jpg"><p>
-<p align=center><img src="img-readme\dash5.jpg"><p>
-<p align=center><img src="img-readme\dash6.jpg"><p>
+<img src="img-readme\dash1.jpg">
+<img src="img-readme\dash2.jpg">
+<img src="img-readme\dash3.jpg">
+<img src="img-readme\dash4.jpg">
+<img src="img-readme\dash5.jpg">
+<img src="img-readme\dash6.jpg">
 
 
 
@@ -45,11 +45,11 @@ In this project, I analyzed data from the ENACOM (telecommunications) and perfor
 Tools: Python, Pandas, Numpy, PowerBI.
 
 ## 🖥️Dashboard Images:
-<p align=center><img src="img-readme\1.png"><p>
-<p align=center><img src="img-readme\2.png"><p>
-<p align=center><img src="img-readme\3.png"><p>
-<p align=center><img src="img-readme\4.png"><p>
-<p align=center><img src="img-readme\5.png"><p>
+<img src="img-readme\1.png">
+<img src="img-readme\2.png">
+<img src="img-readme\3.png">
+<img src="img-readme\4.png">
+<img src="img-readme\5.png">
 
 
 
