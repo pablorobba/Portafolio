@@ -12,7 +12,7 @@ I worked on a project where I assumed the role of a data science company with a 
 * Achievement: Project selected as one of the best in our cohort.
 * Worked with an international team
     
-I have also done about this proyect, with marketing elements. [Click Here For Youtube Video](https://www.youtube.com/watch?v=gvxX24bK5Rs)
+I have also done about this video, with marketing elements. [Click Here For Youtube Video](https://www.youtube.com/watch?v=gvxX24bK5Rs)
 
 Tools: Python, Pandas, Numpy, SQL, BigQuery, Cloud Functions, Sci-kit Learn, Yahoo Finance API. Databases: PKL, JSON, Parquet, hosted on Google Drive; data extracted from Yahoo Finance through its API. Platforms: Google Cloud.
 
