@@ -32,7 +32,7 @@ Tools: Python, Pandas, Numpy, SQL, BigQuery, Cloud Functions, Sci-kit Learn, Yah
 <img src="img-readme\dash6.jpg">
 
 
-
+You can download this complete dashboard [here](https://drive.google.com/file/d/1nAO1dLsNIVSjKkmoqniHHVyxOMo9JTHh/view?usp=drive_link)
 
 # [Project 2: ENACOM Data Analysis Project](https://github.com/pablorobba/Data_Analyst_Telecomunication_proyect)
 
@@ -52,7 +52,7 @@ Tools: Python, Pandas, Numpy, PowerBI.
 <img src="img-readme\5.png">
 
 
-
+The dashboard complete is the github page
 
 # [Project 3: STEAM API Data Science Project](https://github.com/pablorobba/STEAM_Individual_Proyect)
 
