@@ -1,4 +1,4 @@
-# [Project 1: Data Science's finance Proyect](https://github.com/ChirixC/Yelp-Final-Project)
+# [Project 1: Data Science's finance Project](https://github.com/ChirixC/Yelp-Final-Project)
 
 I worked on a project where I assumed the role of a data science company with a focus on finance, and we had to fulfill the company's objectives using Yelp and Google Maps data. The general conclution that our enterprise is in a safe position, comparated to the competence, in terms economic growth and  the user's reviews  (but they are cutting distance).
 
@@ -34,13 +34,13 @@ Tools: Python, Pandas, Numpy, SQL, BigQuery, Cloud Functions, Sci-kit Learn, Yah
 
 
 
-# [Project 2: ENACOM Data Analysis Project ](https://github.com/pablorobba/Data_Analyst_Telecomunication_proyect)
+# [Project 2: ENACOM Data Analysis Project](https://github.com/pablorobba/Data_Analyst_Telecomunication_proyect)
 
-In this project, I analyzed data from the ENACOM (telecommunications) and performed ETL, analysis, and created a PowerBI dashboard.
+In this project, I analyzed data from the ENACOM (telecommunications) and performed ETL, analysis, and created a PowerBI dashboard. I highly recommend to look at the analysis and storytelling devoped in the project's readme.
 
 * Conducted ETL and EDA on data extracted from the ENACOM API.
 * Conceptualized KPIs and developed storytelling based on data and EDA.
-* Generated visualization reports based on user/client requirements.
+* Generated visualization reports and storytelling based on user/client requirements.
 
 Tools: Python, Pandas, Numpy, PowerBI.
 
@@ -54,7 +54,7 @@ Tools: Python, Pandas, Numpy, PowerBI.
 
 
 
-# [Project 3: STEAM API Data Science Proyect](https://github.com/pablorobba/STEAM_Individual_Proyect)
+# [Project 3: STEAM API Data Science Project](https://github.com/pablorobba/STEAM_Individual_Proyect)
 
 I conducted Exploratory Data Analysis (EDA) and Extract, Transform, Load (ETL) on a Steam database, developed a machine learning model, and subsequently created an API with deployment. Additionally, I designed a HTML cover page and a CSS presentation for the API. 
 
