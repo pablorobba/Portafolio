@@ -52,7 +52,7 @@ Tools: Python, Pandas, Numpy, PowerBI.
 <img src="img-readme\5.png">
 
 
-The complete dashboard is the github page
+The complete dashboard is on the github page
 
 # [Project 3: STEAM API Data Science Project](https://github.com/pablorobba/STEAM_Individual_Proyect)
 
