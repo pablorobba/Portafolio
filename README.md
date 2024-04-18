@@ -46,20 +46,6 @@ Trabajé en un proyecto que involucraba el rol de una empresa de ciencia de dato
 Herramientas: Python, Pandas, Numpy, SQL, Big Query, Cloud Functions, Sci-kit Learn, Api de Yahoo Finance. Base de Datos: PKL, JSON, Parquet, alojados en Google Drive; datos extraidos de Yahoo finance mediante su API. Plataformas: Google Cloud.
 
 
-### 🛠️Flujo de Trabajo:  
-<img src="img-readme\Flujo_de_Trabajo.png">
-
-### 📑Modelo entidad-relación: 
-<img src="img-readme\Entidad_relación_Definitivo2.jpg">
-    
-### 🖥️Imágenes del tablero:
-<img src="img-readme\dash1.jpg">
-<img src="img-readme\dash2.jpg">
-<img src="img-readme\dash3.jpg">
-<img src="img-readme\dash4.jpg">
-<img src="img-readme\dash5.jpg">
-<img src="img-readme\dash6.jpg">
-
 
 
 ## [Data Scientist - “Proyecto de Análisis de datos del ENACOM”](https://github.com/pablorobba/Data_Analyst_Telecomunication_proyect)
@@ -74,7 +60,6 @@ En este  proyecto realicé un análisis exploratorio de datos provenientes del E
 
 Herramientas: Python, Pandas, Numpy, PowerBI. 
 
-### 🖥️Imágenes del tablero:
 <img src="img-readme\1.png">
 <img src="img-readme\2.png">
 <img src="img-readme\3.png">
