@@ -30,17 +30,17 @@ Data Analyst con background en derecho, ciencias sociales y filosofía que me ay
 ## [Data Scientist - “Proyecto Finanzas y ciencia de datos”](https://github.com/ChirixC/Yelp-Final-Project) 
 > Experiencia académica. Henry Bootcamp. Nov - Dic. 2023
 
-Trabaje en un proyecto en el que se tomaba el rol de una empresa de ciencia de datos con enfoque en finanzas, para el cual debíamos completar los objetivos de la empresa de comida Texas Roadhouse, a partir de datos de Yelp y Google Maps. El objetivo principal era extraer conocimientos significativos a partir de una extensa base de datos de reviews de restaurantes. Para lo cual, mediante técnicas de minería de datos y análisis estadístico, identifiqué patrones, tendencias y factores clave que influyeron en la satisfacción del cliente y en la reputación de la empresa escogida para el análisis. Todo lo cual se encuentra volcado tanto en el reporte visual (en el tablero grafico en powerBI) y en el reporte escrito.
+Trabaje en un proyecto en el que se tomaba el rol de una empresa de ciencia de datos con enfoque en finanzas, para el cual debíamos completar los objetivos de la empresa de comida Texas Roadhouse, a partir de una base de datos de reviews de restaurantes de Yelp y Google Maps. El objetivo principal era extraer conocimientos significativos. Para lo cual, mediante técnicas de minería de datos y análisis estadístico, identifiqué patrones, tendencias y factores clave que influyeron en la satisfacción del cliente y en la reputación de la empresa escogida para el análisis. Todo lo cual se encuentra volcado tanto en el reporte visual (en el tablero grafico en powerBI) y en el reporte escrito.
 
-* Realice un proceso de extracción, carga y transformación de datos para, luego, hacer un primer análisis preliminar a los datos.
-* Desarrolle ingeniería de datos en la nube, en la que se cargaron los datos necesarios para el análisis, extraído directamente desde Google Drive.
-* Trabajé con Python para la limpieza y carga automática de los datos en la nube.
-* Diseñe varios modelos de machine learning en Python.
+* Realice un proceso de extracción, carga y transformación de la informacion para, luego, hacer un primer análisis preliminar.
+* Desarrolle ingeniería y carga de datos en la nube, extraídos directamente desde Google Drive. Despues, trabaje en la limpieza y carga automática de estos en la nuba con Python.
+* Diseñe varios modelos de machine learning.
 * Ideé distintas métricas e indicadores de rendimientos.
 * A partir de estas métricas e indicadores de rendimientos, creé un tablero en PowerBI, con objetos gráficos  altamente dinámicos, con navegación entre páginas y con un diseño agradable a la vista.
 * Logro: proyecto elegido el mejor de la cohorte.
 * [El proyecto cuenta con video en YT donde, además, se ve el tablero funcionando en tiempo real, con elementos de marketing](https://www.youtube.com/watch?v=gvxX24bK5Rs&t=8s)
-* Trabaje con un equipo internacional, con personas tanto de Argentina como del resto de la región
+* Trabaje con un equipo internacional, con personas tanto de Argentina como del resto de la región, con metodologías agiles y uso de distintas plataformas de comunicación y videollamadas.
+ 
     
 Herramientas: Python, Pandas, Numpy, SQL, Big Query, Cloud Functions, Sci-kit Learn, Api de Yahoo Finance. Base de Datos: PKL, JSON, Parquet, alojados en Google Drive; datos extraidos de Yahoo finance mediante su API. Plataformas: Google Cloud.
 
@@ -64,9 +64,9 @@ Herramientas: Python, Pandas, Numpy, SQL, Big Query, Cloud Functions, Sci-kit Le
 ## [Data Scientist - “Proyecto de Análisis de datos del ENACOM”](https://github.com/pablorobba/Data_Analyst_Telecomunication_proyect)
 >Experiencia académica. Henry Bootcamp. Nov. 2023
 
-En este  proyecto analicé datos provenientes del ENACOM (Ente Nacional de Comunicaciones) y realicé un análisis exploratorio de  los datos, a partir de ahí saque distintas conclusiones de los datos en cuestión. A raíz de esto, creé un reporte visual en PowerBI y un reporte escrito donde se encuentran las distintas conclusiones y el análisis de los datos.
+En este  proyecto realicé un análisis exploratorio de datos provenientes del ENACOM (Ente Nacional de Comunicaciones), y saque distintas conclusiones de ellos. A raíz de esto, creé un reporte visual en PowerBI y un reporte escrito donde se encuentran las distintas conclusiones y el análisis de los datos.
 
-* Realicé un proceso de análisis exploratorio a los datos extraídos de la API oficial del ENACOM
+* Realicé un proceso de análisis exploratorio de los datos extraídos de la API oficial del ENACOM
 * Pensé indicadores de rendimiento y métricas, en base a los datos.
 * Pensé distintas métricas e indicadores de rendimientos, además de un análisis y distintas conclusiones de los datos dados.
 * Generé un tablero altamente dinámico en powerBI, con distintos objetos visuales, a partir de los requerimientos del usuario/cliente. 
@@ -85,7 +85,7 @@ Herramientas: Python, Pandas, Numpy, PowerBI.
 ## [Data Scientist - “STEAM API”](https://github.com/pablorobba/STEAM_Individual_Proyect)
 >Experiencia académica. Henry Bootcamp. Oct. 2023
 
-Realice un proceso de extracción, carga y transformación de datos a una base de datos de Steam, un modelo de machine learning y luego creé con ello una API que devuelve información sobre los usuarios, las empresas desarrolladoras y los videojuegos de la plataforma. Además, a la API le añadí diseño web y documentación, de tal manera que sea altamente intuitiva para cualquier usuario.
+Realice un proceso de extracción, carga y transformación a una base de datos de Steam, un modelo de machine learning y luego creé con ello una API que devuelve información sobre los usuarios, las empresas desarrolladoras y los videojuegos de la plataforma. Además, a la API le añadí diseño web y documentación, de tal manera que sea altamente intuitiva para cualquier usuario.
 
 Podes obtener esta información de la API: 1- Dinero gastado por usuario, 2- El usuario con más horas jugadas por género y sus horas jugadas por año, 3- La cantidad de lanzamientos y el porcentaje por año por desarrollador, 4- Los 3 mejores desarrolladores por año, 5- Nombre del desarrollador y sus reseñas (positivas/negativas), 6- 5 Juegos según el juego que proporciones.
 
@@ -96,7 +96,7 @@ Podes obtener esta información de la API: 1- Dinero gastado por usuario, 2- El 
 Herramientas: Python, FastApi, Pandas, Numpy, CSS, HTML. Base de Datos: datos en formato JSON y Parquet. Plataformas: Render.
 
 Podes acceder a la API [aquí](https://steamapi-h3u0.onrender.com/) (tarda un tiempo en cargarse)
-***
+
 # Otras Experiencias
 ## Data Scientist	
 >Henry, Contrato de Formación. Jul 2023 - Dic 2023
