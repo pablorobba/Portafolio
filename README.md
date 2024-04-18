@@ -60,13 +60,6 @@ En este  proyecto realicé un análisis exploratorio de datos provenientes del E
 
 Herramientas: Python, Pandas, Numpy, PowerBI. 
 
-<img src="img-readme\1.png">
-<img src="img-readme\2.png">
-<img src="img-readme\3.png">
-<img src="img-readme\4.png">
-<img src="img-readme\5.png">
-
-
 
 ## [Data Scientist - “STEAM API”](https://github.com/pablorobba/STEAM_Individual_Proyect)
 >Experiencia académica. Henry Bootcamp. Oct. 2023
@@ -101,4 +94,5 @@ Más de 700 horas de trabajo intensivo en el área de ciencias y análisis de da
 * Inglés - Avanzado.
 * Francés - Basico.
 
+# Enlace de proyectos:
 
