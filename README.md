@@ -94,5 +94,5 @@ Más de 700 horas de trabajo intensivo en el área de ciencias y análisis de da
 * Inglés - Avanzado.
 * Francés - Basico.
 
-# Enlace de proyectos:
+# Enlace de proyectos
 Accedé haciendo click [aqui](https://pablorobba.github.io/Proyectos/)
