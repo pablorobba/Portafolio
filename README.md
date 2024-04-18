@@ -22,7 +22,7 @@ Data Analyst con background en derecho, ciencias sociales y filosofía que me ay
 * Bachiller en Ciencias Sociales. Instituto Monseñor Nicolás Esandi. 2011 - 2017.
 * Licenciatura y Profesorado en Filosofía. Universidad Nacional de La Plata. 2018 – actualidad.
 * Licenciatura en Derecho. 2020 – actualidad.
-  
+
 # Educación Complementaria
 * Primeros pasos del desarrollo Frontend. Ticmas. 2023.
 * Procesamiento de datos con Python. Ticmas. 2020.
