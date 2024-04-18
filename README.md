@@ -39,7 +39,7 @@ Trabajé en un proyecto que involucraba el rol de una empresa de ciencia de dato
 * Ideé distintas métricas e indicadores de rendimientos.
 * A partir de estas métricas e indicadores de rendimientos, creé un tablero en PowerBI, con objetos gráficos  altamente dinámicos, con navegación entre páginas y con un diseño agradable a la vista.
 * Logro: proyecto elegido el mejor de la cohorte.
-* [El proyecto cuenta con video en YT donde, además, se ve el tablero funcionando en tiempo real, con elementos de marketing](https://www.youtube.com/watch?v=gvxX24bK5Rs&t=8s)
+* [El proyecto cuenta con video en YT donde, además, se ve el tablero funcionando en tiempo real, con elementos de marketing](https://www.youtube.com/watch?v=gvxX24bK5Rs&t)
 * Trabaje con un equipo internacional, con personas tanto de Argentina como del resto de la región, con metodologías agiles y uso de distintas plataformas de comunicación y videollamadas.
  
     
