@@ -103,7 +103,7 @@ Podes acceder a la API [aquí](https://steamapi-h3u0.onrender.com/) (tarda un ti
 
 >Henry, Contrato de Formación. Jul 2023 - Dic 2023
 
-* Más de 700 horas de trabajo intensivo en el área de ciencias y análisis de datos.
+Más de 700 horas de trabajo intensivo en el área de ciencias y análisis de datos.
 # Tecnologías
 
 Lenguajes de Programación: Python, SQL Herramientas: Power BI, Excel. Base de Datos: Google Cloud.
