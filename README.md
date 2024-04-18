@@ -22,6 +22,7 @@ Data Analyst con background en derecho, ciencias sociales y filosofía que me ay
 * Bachiller en Ciencias Sociales. Instituto Monseñor Nicolás Esandi. 2011 - 2017.
 * Licenciatura y Profesorado en Filosofía. Universidad Nacional de La Plata. 2018 – actualidad.
 * Licenciatura en Derecho. 2020 – actualidad.
+  
 # Educación Complementaria
 * Primeros pasos del desarrollo Frontend. Ticmas. 2023.
 * Procesamiento de datos con Python. Ticmas. 2020.
@@ -100,7 +101,7 @@ Podes acceder a la API [aquí](https://steamapi-h3u0.onrender.com/) (tarda un ti
 # Otras Experiencias
 ## Data Scientist	
 >Henry, Contrato de Formación. Jul 2023 - Dic 2023
-* Más de 700 horas de trabajo intensivo en el área de ciencias de datos y análisis de datos.
+* Más de 700 horas de trabajo intensivo en el área de ciencias y análisis de datos.
 # Tecnologías
 Lenguajes de Programación: Python, SQL Herramientas: Power BI, Excel. Base de Datos: Google Cloud.
 # Idiomas
