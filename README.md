@@ -108,7 +108,9 @@ Más de 700 horas de trabajo intensivo en el área de ciencias y análisis de da
 
 # Tecnologías
 
-Lenguajes de Programación: Python, SQL Herramientas: Power BI, Excel. Base de Datos: Google Cloud.
+* Lenguajes de Programación: Python, SQL 
+* Herramientas: Power BI, Excel.
+* Base de Datos: Google Cloud.
 
 # Idiomas
 * Inglés - Avanzado.
