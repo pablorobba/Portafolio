@@ -1,8 +1,18 @@
-# Pablo Robba
-                                                                       
->Buenos Aires  
->(+54) 11 54245985  
->pablorobba1998@outlook.com
+<div style="display: flex; flex-direction: row-reverse;">
+  <div style="flex: 1;">
+    <img src="img-readme/avatar.jpeg" alt="Avatar" style="border-radius: 50%;" width="150" height="150">
+  </div>
+  <div style="flex: 2;">
+    <h1>Pablo Robba</h1>
+    <p>Buenos Aires<br>(+54) 11 54245985<br>pablorobba1998@outlook.com</p>
+  </div>
+</div>
+
+
+
+
+
+
 
 # Sobre mi
 Data Analyst con background en derecho, ciencias sociales y filosofía que me ayudaron a: Liderar y trabajar en equipo, idear y construir soluciones a problemas complejos y desarrollar un pensamiento analítico. Conocimientos en metodologías ágiles, flujos de trabajo, estructura de datos, evaluación de modelos, machine learning y análisis de datos, Tengo experiencia en arquitectura de datos, generación de tableros en PowerBI, consulta de datos con SQL, lenguaje Python, además de manejo de tecnología en la nube: Google Cloud. Con pensamiento crítico, capacidad de concentración y autosuficiencia.  Nivel de Inglés: Avanzado.
