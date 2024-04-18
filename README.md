@@ -20,7 +20,7 @@ Data Analyst con background en derecho, ciencias sociales y filosofía que me ay
 # Educación Profesional
 * Data Science. Henry Bootcamp. 700 horas de cursado teórico-práctico. 2022.
 * Bachiller en Ciencias Sociales. Instituto Monseñor Nicolás Esandi. 2011 - 2017.
-* Licenciatura y Profesorado en Filosofía. Universidad Nacional de La Plata. 2018 – actualidad.
+* Licenciatura y Profesorado en Filosofía. Universidad Nacional de La Plata. 2018 – actualidad. Estudiante Avanzado.
 * Licenciatura en Derecho. 2020 – actualidad.
 
 # Educación Complementaria
